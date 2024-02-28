@@ -1,0 +1,11 @@
+{
+    "name":"Nixuge's Repo",
+    "description":"No",
+    "tint":"#fc4c02",
+    "cname":"cydia.nixuge.me",
+    "maintainer":{
+        "name":"Nixuge",
+        "email":"mail@nixuge.me"
+    },
+    "automatic_git":"false"
+}

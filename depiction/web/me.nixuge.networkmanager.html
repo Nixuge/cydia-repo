@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, user-scalable=0">
+    <title>NetworkManagerReborn</title>
+    <link rel="stylesheet" type="text/css" href="../../web/index.css">
+    <style>a, .tint, .table-btn:after {color: #fc4c02} .active {color: #fc4c02;border-bottom: 2px solid #fc4c02;}</style>
+    <script src="../../web/index.js"></script>
+    <meta name="description" content="A package by NoisyFlake, Nixuge for iOS 15.0 to 17.x.">
+    <meta property="og:title" content="NetworkManagerReborn">
+    <meta property="og:description" content="A package by NoisyFlake, Nixuge for iOS 15.0 to 17.x.">
+    <meta property="og:image" content="../../assets/me.nixuge.networkmanager/banner.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="NetworkManagerReborn">
+    <meta name="twitter:description" content="A package by NoisyFlake, Nixuge for iOS 15.0 to 17.x.">
+    <meta name="twitter:image" content="https://cydia.nixuge.me/assets/me.nixuge.networkmanager/banner.png">
+    <meta name="theme-color" content="#fc4c02">
+</head>
+<body>
+    <div class="body">
+        <div style="background-image: url(../../assets/me.nixuge.networkmanager/banner.png)" class="banner_underlay"></div>
+        <div class="package package_head">
+            <img src="../../assets/me.nixuge.networkmanager/icon.png">
+            <div class="package_info">
+                <h1 class="package_name">NetworkManagerReborn</h1>
+                <p class="package_caption">NoisyFlake, Nixuge</p>
+            </div>
+        </div>
+        <div class="nav">
+            <div class="nav_btn active tweak_info_btn" onclick="swap('.changelog','.tweak_info');">Details</div>
+            <div class="nav_btn changelog_btn" onclick="swap('.tweak_info','.changelog');">Changelog</div>
+        </div>
+        <div class="tweak_info">
+            <p class="compatibility"><b>Compatibility:</b> This package is compatible with iOS iOS 15.0 to 17.x.</p>
+            <div class="scroll_view"><img class="img_card" src="../../assets/me.nixuge.networkmanager/screenshot/01.png"><img class="img_card" src="../../assets/me.nixuge.networkmanager/screenshot/02.png"><img class="img_card" src="../../assets/me.nixuge.networkmanager/screenshot/03.png"><img class="img_card" src="../../assets/me.nixuge.networkmanager/screenshot/04.png"></div>
+            <div class="md_view">
+                <p><p>​</p>
+<h1>Force 2G/3G/LTE connection from the Control Center</h1>
+<p>​</p>
+<h4>This tweak allows you to force your mobile data connection to use a specific connection type like 2G, 3G or LTE - all with a single click from your Control Center.</h4>
+<p>​
+You can use this e.g. if you are in an area with a weak 4G but a strong 2G connection. Usually your phone would prefer the strong - but slow - 2G connection, but with this tweak you can force the usage of the weak 4G connection, which is usually still way faster than a strong 2G one.</p>
+<p>​​​​
+Another example would be if you are in an area where your phone constantly switches between two network types, thus draining your battery. Simply lock it to one of the available ones to save your battery from draining from all the network switching.
+​
+You can customize between which connection types you'd like to switch from the settings:</p>
+<ul>
+<li>If you only select one option (e.g. LTE), the module will behave like a standard CC toggle that you can press to toggle between forced LTE and the automatic network selection</li>
+<li>If you select multiple options (e.g. 3G and LTE), the module will loop through the selected options, from 3G to LTE, then back to the automatic network selection</li>
+</ul>
+<h2>Important:</h2>
+<ul>
+<li><strong>Not compatible with eSIMs</strong></li>
+<li>If your carrier does not support Voice-over-LTE (VoLTE), you won't get any signal and you won't able to receive or make calls when your connection is locked to LTE.</li>
+<li>Make sure to set the toggle back to automatic network selection before uninstalling this tweak.</li>
+</ul>
+<h3>Support</h3>
+<p>Support via Telegram (@Nixuge), Discord (@nixuge), Twitter (@JeanFilsYTB) and Reddit (u/Nixugay).</p>
+</p>
+            </div>
+            <h3>Information</h3>
+            <div class="table">
+                <div class="cell">
+                    <div class="title">Developer</div>
+                    <div class="text">NoisyFlake, Nixuge</div>
+                    <br><br>
+                </div>
+                <div class="cell">
+                    <div class="title">Version</div>
+                    <div class="text">1.3.0-9+debug</div>
+                    <br><br>
+                </div>
+                <div class="cell">
+                    <div class="title">Compatibility</div>
+                    <div class="text">iOS 15.0 to 17.x</div>
+                    <br><br>
+                </div>
+                <div class="cell">
+                    <div class="title">Section</div>
+                    <div class="text">Control Center (Modules)</div>
+                    <br><br>
+                </div>
+            </div>
+        </div>
+        <div class="changelog">
+            <div class="changelog_entry">
+                <h4>1.3</h4>
+                <div class="md_view"><p>Initial re-release. iOS 15, rootless &amp; 5G support.</p>
+</div>
+            </div><div class="changelog_entry">
+                <h4>1.2/1.0.2</h4>
+                <div class="md_view"><p>Add feature to set a custom text for the toggle</p>
+</div>
+            </div><div class="changelog_entry">
+                <h4>1.1/1.0.1</h4>
+                <div class="md_view"><p>Fix 2G/3G not working on CDMA carriers (e.g. Verizon/Sprint)</p>
+</div>
+            </div><div class="changelog_entry">
+                <h4>1.0.0</h4>
+                <div class="md_view"><p>Initial release</p>
+</div>
+            </div>
+        </div>
+        <div class="caption center footer">Silica 1.2.2 – Updated 2024-02-28</div>
+    </div>
+</body>
+<script>compatible("15.0","17.x","iOS 15.0 to 17.x");externalize()</script>
+</html>

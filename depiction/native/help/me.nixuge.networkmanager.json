@@ -1,0 +1,29 @@
+{
+    "class":"DepictionStackView",
+    "tintColor":"#fc4c02",
+    "title":"Contact Support",
+    "views":[
+        {
+            "class":"DepictionMarkdownView",
+            "markdown":"Nixuge is the maintainer of the package \"NetworkManagerReborn\". Please contact them via email for any questions on this version of the package."
+        },
+        {
+            "class":"DepictionTableButtonView",
+            "title":"Email Maintainer",
+            "action":"mailto:mail@nixuge.me",
+            "openExternal":"true",
+            "tintColor":"#fc4c02"
+        },
+        {
+            "class":"DepictionMarkdownView",
+            "markdown":"If you found a mistake in the depiction or cannot download the package, you can reach out to the maintainer of the \"Nixuge's Repo\" repo, Nixuge."
+        },
+        {
+            "class":"DepictionTableButtonView",
+            "title":"Email Repo Maintainer",
+            "action":"mailto:mail@nixuge.me",
+            "openExternal":"true",
+            "tintColor":"#fc4c02"
+        }
+    ]
+}
