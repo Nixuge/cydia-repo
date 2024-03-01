@@ -8,5 +8,5 @@ Components: main
 Description: Nixuge's Epic Repo
 
 SHA256:
- b7e7277b8b62033f03b254495a492b45cc11e593d174b5f8baf036d616d1b7cc 592 Packages.bz2
- 967923b17c0e8505f5c1558953d3fcb64cac59a7531485333e30a082d3a400dd 604 Packages.xz
+ dbe8d9ab3bd8693332876eb3915c283a2cc26b56cdf43f91d415e6d0978ea43b 599 Packages.bz2
+ ddf5165b08d05a434abd4f23a1785ccce429c1eaca94d641080aa1808f0e4c0d 600 Packages.xz
