@@ -18,7 +18,7 @@
         "works_max":"17.x",
         "featured":"true",
         "architecture":"iphoneos-arm64",
-        "dependencies":"mobilesubstrate, com.opa334.ccsupport, oldabi",
+        "dependencies":"mobilesubstrate, com.opa334.ccsupport",
         "changelog":[
             {
                 "version":"1.0.0",
