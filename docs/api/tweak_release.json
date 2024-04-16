@@ -2,7 +2,7 @@
     {
         "bundle_id":"me.nixuge.networkmanager",
         "name":"NetworkManagerReborn",
-        "version":"1.4.0",
+        "version":"1.4.1",
         "tagline":"Force 2G/3G/4G/5G connection from the Control Center",
         "homepage":"https://shuga.co/",
         "developer":{
@@ -39,6 +39,10 @@
             {
                 "version":"1.4",
                 "changes":"No longer requires oldabi."
+            },
+            {
+                "version":"1.4.1",
+                "changes":"Repo push to actually remove the oldabi dependency"
             }
         ]
     }

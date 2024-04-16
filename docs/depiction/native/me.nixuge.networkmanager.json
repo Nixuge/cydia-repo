@@ -49,7 +49,7 @@
                 {
                     "class":"DepictionTableTextView",
                     "title":"Version",
-                    "text":"1.4.0"
+                    "text":"1.4.1"
                 },
                 {
                     "class":"DepictionTableTextView",
@@ -84,6 +84,10 @@
         {
             "tabname":"Changelog",
             "views":[
+                {
+                    "class":"DepictionMarkdownView",
+                    "markdown":"#### Version 1.4.1\n\nRepo push to actually remove the oldabi dependency"
+                },
                 {
                     "class":"DepictionMarkdownView",
                     "markdown":"#### Version 1.4\n\nNo longer requires oldabi."
