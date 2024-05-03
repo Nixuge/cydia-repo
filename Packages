@@ -8,14 +8,14 @@ Section: Control Center (Modules)
 Architecture: iphoneos-arm64
 Version: 1.4.2
 Installed-Size: 396
-Depiction: http://192.168.1.30:5500/www/depiction/web/me.nixuge.networkmanager.html
-SileoDepiction: http://192.168.1.30:5500/www/depiction/native/me.nixuge.networkmanager.json
-ModernDepiction: http://192.168.1.30:5500/www/depiction/native/me.nixuge.networkmanager.json
-Icon: http://192.168.1.30:5500/www/assets/me.nixuge.networkmanager/icon.png
-MD5sum: 723fa9ab279946d8c4d5c854489b5877
-SHA1: 944699c55acf6f8f137cc8417671c9dbb223d28c
-SHA256: 3e58f1eab24a99d82e43f7565a1f1ba2150e5a0eec140fe560d173c20747bb52
-Size: 36148
+Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
+SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+MD5sum: 5ccc2034644fb13070ff5bc9dd285a4d
+SHA1: b16fa71b058d8a326411e8ac6088f7f07dd908d4
+SHA256: 299d8b998dfe358c3f87d9b1321e31e1d48e9d754673260fd9c3341d5eb82848
+Size: 36144
 Filename: ./debs/me.nixuge.networkmanager_1.4.2_iphoneos-arm64.deb
 
 Package: me.nixuge.networkmanager
@@ -28,13 +28,13 @@ Section: Control Center (Modules)
 Architecture: iphoneos-arm64
 Version: 1.4.1
 Installed-Size: 396
-Depiction: http://192.168.1.30:5500/www/depiction/web/me.nixuge.networkmanager.html
-SileoDepiction: http://192.168.1.30:5500/www/depiction/native/me.nixuge.networkmanager.json
-ModernDepiction: http://192.168.1.30:5500/www/depiction/native/me.nixuge.networkmanager.json
-Icon: http://192.168.1.30:5500/www/assets/me.nixuge.networkmanager/icon.png
-MD5sum: d393edd5b89da902a967a7dfc9bbf04d
-SHA1: e5bb2d2f003f5dbc4b1a6692586271cd4cadb234
-SHA256: 880ca2f184c8c8a58dc231cf3c52d5891e38a9cf87f80cbdcc9c78be1bd99e8e
-Size: 36536
+Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
+SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
+Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+MD5sum: 30ba6a8884291d21960f5289d63c37cc
+SHA1: 308422fce51c1ac11fb4fed0596980afa0dbe217
+SHA256: 460b106a2ce01b19b3365685fc03fa0d3465b8ad0a7b7949ba01f987fed38c81
+Size: 36528
 Filename: ./debs/me.nixuge.networkmanager_1.4.1_iphoneos-arm64.deb
 

@@ -6,7 +6,7 @@
         {
             "package": "me.nixuge.networkmanager",
             "title": "NetworkManagerReborn",
-            "url": "http://192.168.1.30:5500/www/assets/me.nixuge.networkmanager/banner.png",
+            "url": "http://cydia.nixuge.me/assets/me.nixuge.networkmanager/banner.png",
             "hideShadow": "false"
         }
     ]
