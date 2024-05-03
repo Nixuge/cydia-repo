@@ -67,7 +67,7 @@
                 {
                     "class":"DepictionTableButtonView",
                     "title":"Source code",
-                    "action":"https://github.com",
+                    "action":"https://github.com/Nixuge/NetworkManagerReborn",
                     "openExternal":"true",
                     "tintColor":"#aaaaaa"
                 },
