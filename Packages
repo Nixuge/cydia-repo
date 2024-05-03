@@ -12,10 +12,10 @@ Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
 SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
-MD5sum: 2136d33e7be54c5929805ad6ec463132
-SHA1: 40f034b62a4780d481f5ab92fb5896696cc21d8d
-SHA256: 0cc09857490eb149c3a0c5dbb308d50675fb69507bb2a5f48d1459474a092eab
-Size: 36152
+MD5sum: dd5bb61911474f83f94f1dbc1e22fdcb
+SHA1: 3df471f69a52d6d73e9d986bb115d175e82cdc3d
+SHA256: bb6cc36349210e5cca38e1c3abd81e71a50e28ec1e9bad9f3477cd830238d6cc
+Size: 36140
 Filename: ./debs/me.nixuge.networkmanager_1.4.2_iphoneos-arm64.deb
 
 Package: me.nixuge.networkmanager
@@ -32,9 +32,9 @@ Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
 SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
-MD5sum: c8a8b3cd9c40d3518df2a6a5f86a2b99
-SHA1: 4a999487a3b06123c8fcc6583bcbf1f7af8bdca9
-SHA256: b1c0edde23f4e0e18580a57a1e1167d112bb06928ec0d077894c064ba1c95924
-Size: 36548
+MD5sum: f2703e89a6b4a863be339a3def2afc64
+SHA1: f12f034b817fb90b8bed1d4dcf0f9c7029be275b
+SHA256: 9ea58dba21c1b4fcd4b5ecd281732d7931fa57f15775487e97da4b9927ba9cc2
+Size: 36520
 Filename: ./debs/me.nixuge.networkmanager_1.4.1_iphoneos-arm64.deb
 
