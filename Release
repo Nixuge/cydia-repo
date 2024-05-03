@@ -1,0 +1,24 @@
+Origin: Nixuge's Repo
+Label: Nixuge's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64
+Components: main
+Description: epic tweaks here
+
+MD5sum:
+ f79df85bb8a456fa63c6946b92e85926 1808 Packages
+ 043b0f4cb9812a4d938f9a7847594732 656 Packages.xz
+ a7bbc874e7537f9a9e2040e61aa4b2b2 735 Packages.bz2
+
+SHA1:
+ 26f8e6c1d0c5fc9a52cdb7ed94b91df2f787d52f 1808 Packages
+ 1e117cebfde639a2e8581a43117bce3d292a6463 656 Packages.xz
+ 818ed5a54bf709a80202cb7b016ab3636664a014 735 Packages.bz2
+
+SHA256:
+ 68725c1f6e80ebb39e7dda46966d59b795644aedd669d334f1e76e1f7bc72de5 1808 Packages
+ c2acead5324fe7a0d48981c2ac041c74a41648b775b3a9bf99fb432ffcdb5b18 656 Packages.xz
+ 5190d799d12e3cae21cd693d5ca56a4c67452b60d3295823aba5d49d0379a553 735 Packages.bz2
+
