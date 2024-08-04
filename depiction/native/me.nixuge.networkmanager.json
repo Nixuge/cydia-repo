@@ -73,7 +73,7 @@
                 },
                 {
                     "class":"DepictionLabelView",
-                    "text":"Aurixa 1.0 - Updated 2024-05-08",
+                    "text":"Aurixa 1.0 - Updated 2024-08-04",
                     "textColor":"#999999",
                     "fontSize":"10.0",
                     "alignment":1
@@ -84,6 +84,10 @@
         {
             "tabname":"Changelog",
             "views":[
+                {
+                    "class":"DepictionMarkdownView",
+                    "markdown":"#### Version 1.4.3\n\nNow using libroot for pathes instead of hardcoding them"
+                },
                 {
                     "class":"DepictionMarkdownView",
                     "markdown":"#### Version 1.4.2\n\nAuto change version in settings"
@@ -113,12 +117,8 @@
                     "markdown":"#### Version 1.0.0\n\nInitial release"
                 },
                 {
-                    "class":"DepictionMarkdownView",
-                    "markdown":"#### Version 1.4.3\n\nNow using libroot for pathes instead of hardcoding them"
-                },
-                {
                     "class":"DepictionLabelView",
-                    "text":"Aurixa 1.0 - Updated 2024-05-08",
+                    "text":"Aurixa 1.0 - Updated 2024-08-04",
                     "textColor":"#999999",
                     "fontSize":"10.0",
                     "alignment":1
